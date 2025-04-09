@@ -1,1 +1,0 @@
-Characterizing the chemical space used to train, test, and validate machine learning models, as well as to screen the BraCoLi and NuBBE compound libraries for predicting bioactivity against S. aureus (strain 43300).
